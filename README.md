@@ -11,4 +11,4 @@
 <p align="center">4+ years of experience with C and C++</p>
 
 <h1 align="center">Contact me</h1>
-<p align="center">You can contact me on Telegram @whoslore or Discord whoslore#0001</p>
+<p align="center">You can contact me on Telegram @whoslore, Discord whoslore#0001 or Email lorenzo@chocodev.it</p>
