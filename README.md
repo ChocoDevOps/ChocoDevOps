@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Something about me</h1>
 
-<p align="center">Hi, i'm Lorenzo aka ChocoDev - a Software Developer based in Italy with a wide knowledge in Java, C++, C and Python. I'm currently working on personal projects, and i'm available for commissions! Feel free to contact me</p>
+<p align="center">Hi, i'm Lorenzo aka ChocoDev - a Software Developer based in Italy with a wide knowledge in Java, C++, C and Python</p>
 
 <h1 align="center">My experiences</h1>
 <p align="center">5+ years of experience with Java</p>
